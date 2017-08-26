@@ -42,4 +42,4 @@ You might also want to visit our other repos
 
 ## Note
 
-_The third-party projects available via these links are available under separate software license terms and are not part of any TIBCO product. TIBCO makes no representations or warranties concerning these projects and they are not covered by the terms of any agreement you may have with TIBCO, including any terms concerning support, maintenance, warranties, and indemnities.  Download and use of these projects is solely at your own discretion and subject to the license terms applicable to them._
+_The third-party projects available via these links are available under separate software license terms and are not part of any TIBCO product. TIBCO makes no representations or warranties concerning these projects and they are not covered by the terms of any agreement you may have with TIBCO, including any terms concerning support, maintenance, warranties, or indemnities.  Download and use of these projects is solely at your own discretion and subject to the license terms applicable to them._
