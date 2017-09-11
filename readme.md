@@ -6,6 +6,7 @@ The [tci-awesome](https://github.com/TIBCOSoftware/tci-awesome) repository is wh
 
 ## Extensions for TIBCO Cloud Integration - Web Integrator
 * [Amazon SQS](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS)
+* [IFTTT WebHooks](https://github.com/retgits/wi-ifttt-extension)
 * [Simple concat activity](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/TIBCO/activity/concat)
 
 ## Extensions for TIBCO Business Studio - Cloud Edition
