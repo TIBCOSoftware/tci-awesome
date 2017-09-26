@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://tibcosoftware.github.io/tci-awesome"
+baseurl = "https://tibcosoftware.github.io/tci-awesome/"
 languageCode = "en-us"
 title = "Showcase of awesome projects for TIBCO Cloud Integration"
 theme = "hugrid"
