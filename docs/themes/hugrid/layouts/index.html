@@ -10,9 +10,17 @@
 				<ul id="og-grid" class="og-grid">
 					{{ range $.Site.Data.items.items }}
 					<li>
-						<a href="{{.url}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" data-color="{{.color}}">
+						<a href="{{.url}}" data-type="{{.exttype}}" data-largesrc="{{.image}}" data-title="{{.title}}" data-description="{{.description }}" data-buttontext="{{.buttontext}}" data-color="{{.color}}" {{ if eq .exttype "extension" }}data-exttitle="Extension for"{{ end }}{{ if eq .exttype "project" }}data-exttitle="Project for"{{ end }}>
 							<div class="square-box" style="background: {{.color}};">
-								<div class="square-content"><div><span><h2>{{.title}}</h2></span></div></div>
+								<div class="square-content">
+									<div>
+										<span>
+											{{ if eq .exttype "extension" }}<h4>Extension for</h4>{{ end }}
+											{{ if eq .exttype "project" }}<h4>Project for</h4>{{ end }}
+											<h2>{{.title}}</h2>
+										</span>
+									</div>
+								</div>
 							</div>
 						</a>
 					</li>

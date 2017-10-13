@@ -12,9 +12,9 @@ publishdir = "public"
 [params]
     # Meta
     title = "tci-awesome"
-    subtitle = "Showcase of awesome externsions and projects for TIBCO Cloud Integration"
+    subtitle = "Showcase of awesome extensions and projects for TIBCO Cloud<sup>TM</sup> Integration"
     author = "retgits"
-    description = "Showcase of awesome externsions and projects for TIBCO Cloud Integration"
+    description = "Showcase of awesome extensions and projects for TIBCO Cloud<sup>TM</sup> Integration"
 
     # Body background color
     bodybgcolor = "#f9f9f9"
@@ -23,7 +23,7 @@ publishdir = "public"
     buttontext = "Get the project"
 
     # Footer text
-    footertext = "Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [aerohub](https://github.com/aerohub). Updated by [retgits](https://github.com/retgits)"
+    footertext = "(c) TIBCO Software Inc."
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']

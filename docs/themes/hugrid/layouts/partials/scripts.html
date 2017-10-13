@@ -303,6 +303,7 @@
 								title : $itemEl.data( 'title' ),
 								description : $itemEl.data( 'description' ),
 								color : $itemEl.data( 'color' ),
+								exttitle : $itemEl.data( 'exttitle' ),
 								buttontext : $itemEl.data( 'buttontext' )
 							};
 
@@ -310,7 +311,11 @@
 						this.$description.html( eldata.description );
 
 						if(eldata.largesrc.length == 0) {
-							this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h2 id="detailtitle"></h2></span></div></div></div>';
+							if(typeof(eldata.exttitle) == 'undefined') {
+								this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h2 id="detailtitle"></h2></span></div></div></div>';
+							} else {
+								this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h4>' + eldata.exttitle + '</h4><h2 id="detailtitle"></h2></span></div></div></div>';
+							}
 							document.getElementById('detailbox').style.backgroundColor = eldata.color;
 							document.getElementById('detailtitle').innerHTML = eldata.title;
 						} else {
