@@ -314,7 +314,7 @@
 							if(typeof(eldata.exttitle) == 'undefined') {
 								this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h2 id="detailtitle"></h2></span></div></div></div>';
 							} else {
-								this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h4>' + eldata.exttitle + '</h4><h2 id="detailtitle"></h2></span></div></div></div>';
+								this.$loading[0].innerHTML = '<div class="square-box" id="detailbox"><div class="square-content"><div><span><h2>' + eldata.exttitle + '</h2><h2 id="detailtitle"></h2></span></div></div></div>';
 							}
 							document.getElementById('detailbox').style.backgroundColor = eldata.color;
 							document.getElementById('detailtitle').innerHTML = eldata.title;

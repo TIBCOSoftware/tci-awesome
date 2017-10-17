@@ -68,6 +68,13 @@ description = "Twilio is a cloud communications platform as a service (PaaS) com
 url = "https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Twilio"
 
 [[items]]
+title = "Common Utilities"
+color = "#3FAE29"
+exttype = "extension"
+description = "This project is a repository of Flogo Add in's<br/>The first is a Compare utility that performs various comparisons between two numbers i.e. > < = etc<br/>The second is a JWT tool to create and verify JWT tokens<br/>The third is an activity that will take in a date and allow you to add/subtract a number of days/mins etc<br/>The Fourth is an activity that will check an ip against a Whitelist and/or Blacklist"
+url = "https://github.com/ayh20/flogo-components"
+
+[[items]]
 title = "tci-awesome"
 color = "3E8DDD"
 description = "See the rest of the awesome TIBCO Cloud<sup>TM</sup> Integration projects in our GitHub repo"

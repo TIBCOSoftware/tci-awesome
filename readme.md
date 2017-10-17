@@ -14,6 +14,7 @@ The complete list of extensions is here:
 * [Amazon SQS](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS)
 * [IFTTT WebHooks](https://github.com/retgits/wi-ifttt-extension)
 * [Simple concat activity](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/TIBCO/activity/concat)
+* [Utility activities] (https://github.com/ayh20/flogo-components)
 
 ### Extensions for TIBCO Business Studio - Cloud Edition
 * [GloSS](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/GloSS)
