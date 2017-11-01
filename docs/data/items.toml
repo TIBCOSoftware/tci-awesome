@@ -75,6 +75,12 @@ description = "This project is a repository of Flogo Add in's<br/>The first is a
 url = "https://github.com/ayh20/flogo-components"
 
 [[items]]
+title = "Flogo Components"
+color = "#702076"
+description = "A collection custom built flogo components like filtering, sending Kafka messages, throtling and many, many more!"
+url = "https://github.com/jvanderl/flogo-components"
+
+[[items]]
 title = "tci-awesome"
 color = "3E8DDD"
 description = "See the rest of the awesome TIBCO Cloud<sup>TM</sup> Integration projects in our GitHub repo"
