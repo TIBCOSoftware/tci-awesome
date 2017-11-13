@@ -6,6 +6,121 @@ description = "Amazon Simple Queue Service (SQS) is a fully managed message queu
 url = "https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS"
 
 [[items]]
+title = "Black White List Utility"
+color = "#FFDD00"
+description = "This activity allows you to validate a IP address against a Whitelist and/or a Blacklist. IP addresses in the list can be in two formats either a absolute IP or an IP range in CIDR format ie 192.168.1.0/24. Each ip needs to be comma separated"
+url = "https://github.com/ayh20/flogo-components/tree/master/activity/blackwhitelist"
+
+[[items]]
+title = "Compare"
+color = "#00AFA9"
+description = "This activity allows you to compare two values and return a true/false result. Data is passed as a string numeric and operation "
+url = "https://github.com/ayh20/flogo-components/tree/master/activity/compare"
+
+[[items]]
+title = "Date Math"
+color = "#0081CB"
+description = "This activity gives you the ability to input a datetime string and add or subtract a number of days,Hours,Minutes or seconds to that date"
+url = "https://github.com/ayh20/flogo-components/tree/master/activity/datemath"
+
+[[items]]
+title = "JWT Tokens"
+color = "#3FAE29"
+description = "This activity allows you to create or validate a JWT token"
+url = "https://github.com/ayh20/flogo-components/tree/master/activity/jwt"
+
+[[items]]
+title = "Write BLE Data"
+color = "#E51992"
+description = "This activity provides your Flogo application the ability to write data to a Bluetooth Low Energy (BLE) device."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/blewrite"
+
+[[items]]
+title = "Combine"
+color = "#702076"
+description = "This activity provides your flogo application the ability to combine separate parts into a single string"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/combine"
+
+[[items]]
+title = "Send eFTL Message"
+color = "#F6323E"
+description = "This activity sends a message to TIBCO eFTL. Code is based on the WSMessage activity created by Leon Stigter"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/eftl"
+
+[[items]]
+title = "Filter"
+color = "#FF6A00"
+description = "This activity provides your flogo application the ability to filter out unwanted data."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/filter"
+
+[[items]]
+title = "Get JSON Elements"
+color = "#3FAE29"
+description = "This activity provides your flogo application the ability to retrieve data from a simple JSON structure"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/getjson"
+
+[[items]]
+title = "JSON to Data"
+color = "#FFA300"
+description = "This activity provides your flogo application the ability to convert a JSON string into a data object"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/jsontodata"
+
+[[items]]
+title = "Send message to Kafka"
+color = "#FFDD00"
+description = "This activity provides your flogo application the ability to send a message to an Apache Kafka broker. Code is based on the Kafka activity created by Kai Waehner"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/kafka"
+
+[[items]]
+title = "Publish MQTT Message"
+color = "#00AFA9"
+description = "This activity provides your flogo application the ability to publish a message on an MQTT topic."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/mqtt"
+
+[[items]]
+title = "Interact with Redis"
+color = "#0081CB"
+description = "This activity provides your flogo application the ability to interact with a Redis keyspace."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/redis"
+
+[[items]]
+title = "Trim"
+color = "#3FAE29"
+description = "This activity provides your flogo application the ability to find and replace characters in up to 8 strings"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/replace"
+
+[[items]]
+title = "Split JSON"
+color = "#702076"
+description = "This activity provides your flogo application the ability to split a simple JSON structure into separate name-value pairs"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/splitjson"
+
+[[items]]
+title = "Split Path"
+color = "orange"
+description = "This activity provides your flogo application the ability to split a path into separate parts"
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/splitpath"
+
+[[items]]
+title = "State Change"
+color = "#E51992"
+description = "This activity provides your flogo application the ability to detect state change for up to eight inputs."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/statechange"
+
+[[items]]
+title = "Send TCM Message"
+color = "#3E8DDD"
+description = "This activity sends a message to TIBCO Cloud Messaging."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/tcmpub"
+
+[[items]]
+title = "Throttle by Interval"
+color = "#702076"
+description = "This activity provides your flogo application the ability to throttle data by interval."
+url = "https://github.com/jvanderl/flogo-components/tree/master/activity/throttle"
+
+
+[[items]]
 title = "IFTTT"
 color = "#E51992"
 exttype = "extension"
@@ -70,7 +185,6 @@ url = "https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20B
 [[items]]
 title = "Common Utilities"
 color = "#3FAE29"
-exttype = "extension"
 description = "This project is a repository of Flogo Add in's<br/>The first is a Compare utility that performs various comparisons between two numbers i.e. > < = etc<br/>The second is a JWT tool to create and verify JWT tokens<br/>The third is an activity that will take in a date and allow you to add/subtract a number of days/mins etc<br/>The Fourth is an activity that will check an ip against a Whitelist and/or Blacklist"
 url = "https://github.com/ayh20/flogo-components"
 
@@ -82,7 +196,7 @@ url = "https://github.com/jvanderl/flogo-components"
 
 [[items]]
 title = "tci-awesome"
-color = "3E8DDD"
+color = "#3E8DDD"
 description = "See the rest of the awesome TIBCO Cloud<sup>TM</sup> Integration projects in our GitHub repo"
 buttontext = "Visit the repo"
 url = "https://github.com/TIBCOSoftware/tci-awesome"
