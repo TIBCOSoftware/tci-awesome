@@ -24,6 +24,13 @@ description = "This activity gives you the ability to input a datetime string an
 url = "https://github.com/ayh20/flogo-components/tree/master/activity/datemath"
 
 [[items]]
+title = "APILayer.com"
+color = "#77A7F7"
+exttype = "extension"
+description = "Extension for APILayer.com, first Version with International Phone Number Validation, ... more to come ..."
+url = "https://github.com/JGrotex/tci-wi-apilayer-extension"
+
+[[items]]
 title = "JWT Tokens"
 color = "#3FAE29"
 description = "This activity allows you to create or validate a JWT token"
@@ -58,6 +65,12 @@ title = "Get JSON Elements"
 color = "#3FAE29"
 description = "This activity provides your flogo application the ability to retrieve data from a simple JSON structure"
 url = "https://github.com/jvanderl/flogo-components/tree/master/activity/getjson"
+
+[[items]]
+title = "Banking Data Validation"
+color = "#77A7F7"
+description = "Banking Data Validation Library, the first Version contains a IBAN Validation Activity"
+url = "https://github.com/JGrotex/tci-wi-banking-extension"
 
 [[items]]
 title = "JSON to Data"
@@ -118,7 +131,6 @@ title = "Throttle by Interval"
 color = "#702076"
 description = "This activity provides your flogo application the ability to throttle data by interval."
 url = "https://github.com/jvanderl/flogo-components/tree/master/activity/throttle"
-
 
 [[items]]
 title = "IFTTT"
@@ -193,6 +205,12 @@ title = "Flogo Components"
 color = "#702076"
 description = "A collection custom built flogo components like filtering, sending Kafka messages, throtling and many, many more!"
 url = "https://github.com/jvanderl/flogo-components"
+
+[[items]]
+title = "Small Tools"
+color = "#77A7F7"
+description = "Small Helper Tools Library, with small Version of Concat Strings, and EMail Addr soon"
+url = "https://github.com/JGrotex/tci-wi-smalltools-extension"
 
 [[items]]
 title = "tci-awesome"
