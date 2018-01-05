@@ -12,6 +12,7 @@ The complete list of extensions is here:
 
 ### Extensions for TIBCO Cloud Integration - Web Integrator
 * [Amazon SQS](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS)
+* [Twilio](https://github.com/JGrotex/tci-wi-twilio-extension)
 * [IFTTT WebHooks](https://github.com/retgits/wi-ifttt-extension)
 * [Simple concat activity](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/TIBCO/activity/concat)
 * [Utility activities](https://github.com/ayh20/flogo-components)
@@ -44,7 +45,6 @@ The complete list of extensions is here:
 * [Sample for Slack](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Slack)
 * [Sample for Stripe](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Stripe)
 * [Sample for SugarCRM](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20SugarCRM)
-* [Sample for Twilio](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Twilio)
 
 
 ## Contributing
