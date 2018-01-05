@@ -190,9 +190,9 @@ url = "https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20B
 [[items]]
 title = "Twilio"
 color = "#0081CB"
-exttype = "project"
-description = "Twilio is a cloud communications platform as a service (PaaS) company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls and send and receive text messages using its web service APIs."
-url = "https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Twilio"
+exttype = "extension"
+description = "First draft Version with just a SMS sender using Twilio API, more to come. The ZIP contains the first release v.1.0 and can just uploaded under TIBCO Cloud Integration Extensions"
+url = "https://github.com/JGrotex/tci-wi-twilio-extension"
 
 [[items]]
 title = "Common Utilities"
