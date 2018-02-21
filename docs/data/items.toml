@@ -31,6 +31,27 @@ description = "Extension for APILayer.com, first Version with International Phon
 url = "https://github.com/JGrotex/tci-wi-apilayer-extension"
 
 [[items]]
+title = "TCI MQTT"
+color = "#77A7F7"
+exttype = "extension"
+description = "allows to publish MQTT messages from TCI"
+url = "https://github.com/JGrotex/tci-extensions/blob/master/extensions/MQTT/readme.md"
+
+[[items]]
+title = "Scripting"
+color = "#77A7F7"
+exttype = "extension"
+description = "Extension allows dynamically loaded and on the fly Script execution"
+url = "https://github.com/JGrotex/tci-extensions/blob/master/extensions/Scripting/readme.md"
+
+[[items]]
+title = "Nexmo"
+color = "#77A7F7"
+exttype = "extension"
+description = "A Nexmo SMS Sender"
+url = "https://github.com/JGrotex/tci-extensions/blob/master/extensions/Nexmo/readme.md"
+
+[[items]]
 title = "JWT Tokens"
 color = "#3FAE29"
 description = "This activity allows you to create or validate a JWT token"
