@@ -3,7 +3,7 @@ title = "Amazon SQS"
 color = "orange"
 exttype = "extension"
 description = "Amazon Simple Queue Service (SQS) is a fully managed message queuing service that makes it easy to decouple and scale microservices, distributed systems, and serverless applications."
-url = "https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS"
+url = "https://github.com/TIBCOSoftware/tci-flogo/tree/master/examples/AWSSQS"
 
 [[items]]
 title = "Black White List Utility"
@@ -164,7 +164,7 @@ url = "https://github.com/retgits/wi-ifttt-extension"
 title = "Concat"
 color = "#702076"
 description = "In formal language theory and computer programming, string concatenation is the operation of joining character strings end-to-end. For example, the concatenation of 'snow' and 'ball' is 'snowball'."
-url = "https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/TIBCO/activity/concat"
+url = "https://github.com/TIBCOSoftware/tci-flogo/tree/master/examples/TIBCO/activity/concat"
 
 [[items]]
 title = "GloSS"
