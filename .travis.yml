@@ -13,7 +13,11 @@ branches:
   - master
 
 install:
-  - go get github.com/spf13/hugo
+  - wget -O hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.38.1/hugo_0.38.1_Linux-64bit.tar.gz
+  - mkdir -p hugobin
+  - tar -xzvf hugo.tar.gz -C ./hugobin
+  - mv ./hugobin/hugo $HOME/gopath/bin
+  - rm hugo.tar.gz && rm -rf ./hugobin
 
 script:
   - cd docs && hugo
