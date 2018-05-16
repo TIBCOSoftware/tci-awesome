@@ -3,7 +3,7 @@ title = "Amazon SQS"
 color = "orange"
 exttype = "extension"
 description = "Amazon Simple Queue Service (SQS) is a fully managed message queuing service that makes it easy to decouple and scale microservices, distributed systems, and serverless applications."
-url = "https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS"
+url = "https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWSSQS"
 
 [[items]]
 title = "Black White List Utility"
