@@ -10,7 +10,7 @@ Check out our showcase on https://tibcosoftware.github.io/tci-awesome
 ## Complete list
 The complete list of extensions is here:
 
-### Extensions for TIBCO Cloud Integration - Web Integrator
+### Extensions for TIBCO Cloud Integration - Flogo
 * [Amazon SQS](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS)
 * [Twilio](https://github.com/JGrotex/tci-wi-twilio-extension)
 * [Nexmo](https://github.com/JGrotex/tci-extensions/blob/master/extensions/Nexmo/readme.md)
@@ -72,7 +72,7 @@ If you have feedback, don't hesitate to talk to us!
 
 ## Other TIBCO Cloud Integration repos
 You might also want to visit our other repos
-* [tci-webintegrator](https://github.com/TIBCOSoftware/tci-webintegrator), the SDK to build cool extensions for our Web Integrator
+* [tci-webintegrator](https://github.com/TIBCOSoftware/tci-flogo), samples, SDK to build cool extensions for TCI-Flogo and Flogo Enterprise
 * [Connectors for TIBCO Business Studio - Cloud Edition](https://github.com/TIBCOSoftware/tci-studio-samples)
 * [Visual Studio Code extension for Node.js](https://github.com/TIBCOSoftware/vscode-extension-tci)
 * [Command Line Interface for Node.js](https://github.com/TIBCOSoftware/tibcli-node)
