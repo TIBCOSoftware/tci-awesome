@@ -72,7 +72,7 @@ If you have feedback, don't hesitate to talk to us!
 
 ## Other TIBCO Cloud Integration repos
 You might also want to visit our other repos
-* [tci-webintegrator](https://github.com/TIBCOSoftware/tci-flogo), samples, SDK to build cool extensions for TCI-Flogo and Flogo Enterprise
+* [tci-flogo](https://github.com/TIBCOSoftware/tci-flogo) - samples, SDK to build cool extensions for TCI-Flogo and Flogo Enterprise
 * [Connectors for TIBCO Business Studio - Cloud Edition](https://github.com/TIBCOSoftware/tci-studio-samples)
 * [Visual Studio Code extension for Node.js](https://github.com/TIBCOSoftware/vscode-extension-tci)
 * [Command Line Interface for Node.js](https://github.com/TIBCOSoftware/tibcli-node)
