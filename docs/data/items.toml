@@ -234,6 +234,12 @@ description = "Small Helper Tools Library, with small Version of Concat Strings,
 url = "https://github.com/JGrotex/tci-wi-smalltools-extension"
 
 [[items]]
+title = "TCI BW IpFilter and GetToken utilities"
+color = "#288FBD"
+description = "TCI BusinessWorks Utiltities palette with activities IpFilter and GetToken. Developed using Plug-in Development Kit"
+url = "https://github.com/surfra/tci-bw-utilities"
+
+[[items]]
 title = "tci-awesome"
 color = "#3E8DDD"
 description = "See the rest of the awesome TIBCO Cloud<sup>TM</sup> Integration projects in our GitHub repo"
