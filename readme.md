@@ -45,8 +45,8 @@ The complete list of extensions is here:
   * [throttle](https://github.com/jvanderl/flogo-components/tree/master/activity/throttle)
 
 ### Extensions for TIBCO Business Studio - Cloud Edition
-* [IpFilter and GetToken utilities] (https://github.com/surfra/tci-bw-utilities)
-*[GloSS](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/GloSS)
+* [IpFilter and GetToken utilities](https://github.com/surfra/tci-bw-utilities)
+* [GloSS](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/GloSS)
 * [Sample for Microsoft Translator](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Microsoft%20Translator)
 * [Sample for MongoDB](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20MongoDB)
 * [Sample for Slack](https://github.com/TIBCOSoftware/tci-studio-samples/tree/master/TIBCO%20Business%20Studio-Cloud%20Edition/Sample%20for%20Slack)
