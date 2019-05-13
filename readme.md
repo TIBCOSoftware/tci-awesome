@@ -11,14 +11,14 @@ Check out our showcase on https://tibcosoftware.github.io/tci-awesome
 The complete list of extensions is here:
 
 ### Extensions for TIBCO Cloud Integration - Flogo
-* [Amazon SQS](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/AWS)
+* [Amazon SQS](https://github.com/TIBCOSoftware/tci-flogo/tree/master/samples/extensions/AWSSQS)
 * [Twilio](https://github.com/JGrotex/tci-wi-twilio-extension)
 * [Nexmo](https://github.com/JGrotex/tci-extensions/blob/master/extensions/Nexmo/readme.md)
 * [MQTT](https://github.com/JGrotex/tci-extensions/blob/master/extensions/MQTT/readme.md)
 * [Scripting](https://github.com/JGrotex/tci-extensions/blob/master/extensions/Scripting/readme.md)
 * [Banking](https://github.com/JGrotex/tci-wi-banking-extension)
 * [IFTTT WebHooks](https://github.com/retgits/wi-ifttt-extension)
-* [Simple concat activity](https://github.com/TIBCOSoftware/tci-webintegrator/tree/master/examples/TIBCO/activity/concat)
+* [Simple concat activity](https://github.com/TIBCOSoftware/tci-flogo/tree/master/samples/extensions/TIBCO/activity/concat)
 * [SmallTools](https://github.com/JGrotex/tci-wi-smalltools-extension)
 * [APILayer.com](https://github.com/JGrotex/tci-wi-apilayer-extension)
 * [Utility activities](https://github.com/ayh20/flogo-components)
