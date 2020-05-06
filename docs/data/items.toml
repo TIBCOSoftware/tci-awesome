@@ -1,9 +1,15 @@
 [[items]]
+title = "Alexa skill template for TCI Develop - Flogo"
+color = "green"
+description = "This Flogo app JSON file, once uploaded to TIBCO Cloud Integration, will provide you a template for building a service that receives Alexa requests, performs a set of actions that you define, and then send the appropriate response for Alexa to respond to the end-user."
+url = "https://github.com/shyiam81/TCI_Flogo/blob/master/Alexa_Skill_Flogo.json"
+
+[[items]]
 title = "Amazon SQS"
 color = "orange"
 exttype = "extension"
 description = "Amazon Simple Queue Service (SQS) is a fully managed message queuing service that makes it easy to decouple and scale microservices, distributed systems, and serverless applications."
-url = "https://github.com/TIBCOSoftware/tci-flogo/tree/master/examples/AWSSQS"
+url = "https://github.com/TIBCOSoftware/tci-flogo/tree/master/samples/extensions/AWSSQS"
 
 [[items]]
 title = "Black White List Utility"
