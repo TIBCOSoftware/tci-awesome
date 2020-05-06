@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcase of awesome projects for TIBCO Cloud Integration</title>
+    <link>https://tibcosoftware.github.io/tci-awesome/</link>
+    <description>Recent content on Showcase of awesome projects for TIBCO Cloud Integration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://tibcosoftware.github.io/tci-awesome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tibcosoftware.github.io/tci-awesome/_guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/tci-awesome/_guidelines/</guid>
+      <description>Guidelines Acceptable colors  Blue: #3E8DDD Plum: #702076 Magenta: E51992 Scarlett: F6323E Carrot: FF6A00 Tangerine: FFA300 School Bus: FFDD00 Leaf: 3FAE29 Teal: 00AFA9 Azure: 0081CB  </description>
+    </item>
+    
+  </channel>
+</rss>
