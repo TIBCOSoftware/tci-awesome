@@ -1,7 +1,7 @@
 [[items]]
-title = "Tower Configuration Server Template for TCI Develop/TIBCO Flogo® Enterprise"
+title = "Tower Configuration Server Template"
 color = "#702076"
-description = "This template shows how to use Tower Configuration Sever for configuration management of TIBCO Flogo® Enterprise apps"
+description = "This template shows how to use Tower Configuration Sever for configuration management for apps developed & deployed using TIBCO Flogo® Enterprise (TCI - Develop)"
 url = "https://rpsoft.gitbook.io/tower/rest-templates/templates#tibco"
 
 
