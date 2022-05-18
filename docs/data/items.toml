@@ -253,6 +253,12 @@ description = "TCI BusinessWorks Utiltities palette with activities IpFilter and
 url = "https://github.com/surfra/tci-bw-utilities"
 
 [[items]]
+title = "JSON to XML"
+color = "#green"
+description = "Activity that converts JSON to XML."
+url = "https://github.com/d-sauer/contrib/tree/master/activity/json2xml"
+
+[[items]]
 title = "tci-awesome"
 color = "#3E8DDD"
 description = "See the rest of the awesome TIBCO Cloud<sup>TM</sup> Integration projects in our GitHub repo"
