@@ -33,6 +33,7 @@ The complete list of extensions is here:
   * [filter](https://github.com/jvanderl/flogo-components/tree/master/activity/filter)
   * [getjson](https://github.com/jvanderl/flogo-components/tree/master/activity/getjson)
   * [jsontodata](https://github.com/jvanderl/flogo-components/tree/master/activity/jsontodata)
+  * [json2xml](https://github.com/d-sauer/contrib/tree/master/activity/json2xml)
   * [kafka](https://github.com/jvanderl/flogo-components/tree/master/activity/kafka)
   * [mqtt](https://github.com/jvanderl/flogo-components/tree/master/activity/mqtt)
   * [redis](https://github.com/jvanderl/flogo-components/tree/master/activity/redis)
